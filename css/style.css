@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+input{
+    margin: 20px 0;
+    box-shadow: 0 0 3px #004271;
+    border-radius: 5px;
+    height: 50px;
+    padding: 10px;
+    font-size: 20px;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.block_result{
+    padding-left: 20px;
+}
+input[type="button"]{
+    background: #004271;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
